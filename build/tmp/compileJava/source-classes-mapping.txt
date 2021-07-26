@@ -1,0 +1,10 @@
+net/kyaz0x1/proxychecker/models/Proxy.java
+ net.kyaz0x1.proxychecker.models.Proxy
+net/kyaz0x1/proxychecker/files/type/FileExtensionType.java
+ net.kyaz0x1.proxychecker.files.type.FileExtensionType
+net/kyaz0x1/proxychecker/ProxyChecker.java
+ net.kyaz0x1.proxychecker.ProxyChecker
+net/kyaz0x1/proxychecker/files/FileUtils.java
+ net.kyaz0x1.proxychecker.files.FileUtils
+net/kyaz0x1/proxychecker/manager/ProxyManager.java
+ net.kyaz0x1.proxychecker.manager.ProxyManager
