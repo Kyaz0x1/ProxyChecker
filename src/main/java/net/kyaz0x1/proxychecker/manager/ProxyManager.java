@@ -106,6 +106,7 @@ public final class ProxyManager {
             );
 
             System.out.println("Todas as proxies não encontradas foram salvadas com sucesso!");
+            System.exit(0);
         });
     }
 
