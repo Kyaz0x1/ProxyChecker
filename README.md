@@ -6,6 +6,9 @@ Program to check a list of proxies
 java -jar ProxyChecker.jar <file>
 ```
 
+#### Output:
+<img src="img/ProxyChecker.png" />
+
 ### Project information
 |Name| DcWebhookDeleter |
 |----|--|
