@@ -10,7 +10,7 @@ java -jar ProxyChecker.jar <file>
 <img src="img/ProxyChecker.png" />
 
 ### Project information
-|Name| TokenChecker |
+|Name| ProxyChecker |
 |----|--|
 |Version|1.0.0|
 |Build|b212707|
